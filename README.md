@@ -1,73 +1,26 @@
-# Welcome to your Lovable project
+# 🏥 Find-A-Doctor
 
-## Project info
+**Find-A-Doctor** is a modern and responsive web application that helps users easily locate and connect with doctors based on their specialty, location, and availability. Designed with user-friendliness and accessibility in mind, this app leverages clean UI components, TypeScript, React, and modern CSS frameworks for seamless performance.
+## 👩‍💻 Developed By
 
-**URL**: https://lovable.dev/projects/adb6fd73-1ed3-4a12-9454-bddbab3441f8
+**Chettim Chetty Hemasri**  
+**Student ID:** RA2211003011092  
+**GitHub:** [@HEMASRI2175](https://github.com/HEMASRI2175)
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🚀 Features
 
-**Use Lovable**
+- 🔍 **Search Functionality:** Quickly find doctors by specialty, name, or location.
+- 🧑‍⚕️ **Doctor Profiles:** View detailed profiles including qualifications, experience, and available time slots.
+- 📅 **Booking System (optional for future scope):** Allow users to book appointments directly through the interface.
+- 📱 **Mobile Responsive:** Built with mobile-first design principles for an optimized experience across devices.
+- 🌐 **Routing Support:** Navigate between pages using `react-router-dom` for a SPA feel.
+- 🎨 **Tailwind CSS Integration:** For fast, utility-first styling.
+- ⚙️ **TypeScript Support:** Ensures type safety and cleaner code.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/adb6fd73-1ed3-4a12-9454-bddbab3441f8) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/adb6fd73-1ed3-4a12-9454-bddbab3441f8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
